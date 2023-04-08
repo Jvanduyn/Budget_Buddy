@@ -1,7 +1,7 @@
 # ![Budget Buddy](https://img.shields.io/badge/Budget_Buddy-%230056D2.svg?style=for-the-badge&logo=&logoColor=white)
 
 ## Project Description
-Budget Buddy is a input driven application that allows users to create and alter finacial budgets, current finacial goals, and calculate alternative debt repayment options.
+Budget Buddy is a input driven application that allows users to create and alter finacial budgets, current financial goals, and calculate alternative debt repayment options.
 ## User Story
 - AS A user
 - I WANT to create a a budget based on my current assets and liabilities; I also would like to calculate loan and credit card repayment times based on minimal and/or additional interest and/or principal payments.
@@ -17,7 +17,7 @@ Budget Buddy is a input driven application that allows users to create and alter
 Link to app
 https://budget-buddy.herokuapp.com/
 
-## Technology Used
+https://budget-buddy.herokuapp.com/## Technology Used
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 

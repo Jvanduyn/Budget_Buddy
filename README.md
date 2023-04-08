@@ -12,7 +12,10 @@ Budget Buddy is a input driven application that allows users to create and alter
 2. The user will then be brought to a home page that displays their current assets, income,and liabilities; the user has the ability to add or delete items in all section via an + or remove button. A Navagation bar is avaiable at the top of this page for users to toggle between the Budget page, the Goal calculator page, or the sign out option. 
 3. The Budget page contains a budget section that gives users the option to input a specific budget item and the amount they choose to budget for; the Budget page also, contains a Investment section for users to detail current investments and those investments current values. User has the ability to add or delete items in all section via an + or remove button.
 4. The Goal Calculator page contains a Loan Repayment section that will give users the options to input their current loans/credit card payment, term of the loan, APR(Annual Percentage Rate), monthly minimum payment, and due date; the Goal Calculator page also, contains a section where users can input any and all saving goals. The Goal Calculator page wraps up with a section dedicated to calculating alternative payment options for loans, credit cards, or any kind of debt the user has. This section has the ability to calculate alternatives such as: curtailment or principal driven payment that can decrease the life of a loan or detail how much of the minimal payment on the users debt is interest to name a few.   
+
 ## Important Links
+Link to app
+https://budget-buddy.herokuapp.com/
 
 ## Technology Used
 
